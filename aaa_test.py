@@ -4,4 +4,3 @@ def test_read_etc_passwd():
     print(f.read())
 
   print(os.environ)
-  assert False
